@@ -1,0 +1,8 @@
+importlib_metadata==8.0.0
+isort==5.13.2
+platformdirs==4.2.2
+python-dotenv==1.0.1
+ruff==0.5.1
+tomli==2.0.1
+yapf==0.40.2
+zipp==3.19.2
